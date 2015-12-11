@@ -15,7 +15,7 @@ docker build -t [repositoryname] .
 The docker image itself is available on Docker Hub:
 [docker-perl-toolchain image](https://hub.docker.com/r/bogaotory/docker-perl-toolchain/).
 
-### Example
+### Example Usage
 Suppose you wish to run a script (`corecheck.pl`) which prints the CPU information of the host. Then you would have these three files:
 
 1. `cpanfile`:
