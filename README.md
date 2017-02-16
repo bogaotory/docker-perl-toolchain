@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/bogaotory/docker-perl-toolchain.svg?branch=master)](https://travis-ci.org/bogaotory/docker-perl-toolchain)
+[![Layer Info](https://images.microbadger.com/badges/image/bogaotory/docker-perl-toolchain.svg)](https://microbadger.com/images/bogaotory/docker-perl-toolchain)
+[![Version Info](https://images.microbadger.com/badges/version/bogaotory/docker-perl-toolchain.svg)](https://microbadger.com/images/bogaotory/docker-perl-toolchain)
 
 # Building a Docker image with the Perl toolchain
 Build a docker image which includes the *plenv + cpanm + carton* Perl toolchain.
