@@ -1,4 +1,6 @@
-# docker-perl-toolchain
+[![Build Status](https://travis-ci.org/bogaotory/docker-perl-toolchain.svg?branch=master)](https://travis-ci.org/bogaotory/docker-perl-toolchain)
+
+# Building a Docker image with the Perl toolchain
 Build a docker image which includes the *plenv + cpanm + carton* Perl toolchain.
  - [plenv](https://github.com/tokuhirom/plenv) - Perl installation manager
  - [cpanm](https://github.com/miyagawa/cpanminus) - CPAN installer
