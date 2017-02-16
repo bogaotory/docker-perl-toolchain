@@ -1,0 +1,7 @@
+services:
+  - docker
+install:
+  - docker build -t perl-toolchain .
+  - docker run -d --name perl-toolchain perl-toolchain
+script:
+  - docker ps | grep -q perl-toolchain
